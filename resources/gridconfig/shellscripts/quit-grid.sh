@@ -1,0 +1,1 @@
+sudo -kS kill `sudo lsof -t -i:4444`

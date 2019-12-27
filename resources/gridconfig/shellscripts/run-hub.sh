@@ -1,0 +1,1 @@
+java -jar /var/lib/jenkins/workspace/build-automation/resources/gridconfig/selenium-server-standalone-3.141.59.jar -role hub

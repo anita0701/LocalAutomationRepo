@@ -1,0 +1,1 @@
+java -Dwebdriver.chrome.driver="G:\workspace\TS Automation\automation-scripts\resources\webdrivers\Windows/chromedriver.exe" -jar "G:\workspace\TS Automation\automation-scripts\resources\gridconfig\selenium-server-standalone-3.141.59.jar" -role node  -nodeConfig "G:\workspace\TS Automation\automation-scripts\resources\gridconfig\configjson\config-node.json"

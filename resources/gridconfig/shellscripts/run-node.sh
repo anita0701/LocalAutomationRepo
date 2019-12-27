@@ -1,0 +1,1 @@
+java -Dwebdriver.chrome.driver=/var/lib/jenkins/workspace/build-automation/resources/webdrivers/ubuntu/chromedriver -jar /var/lib/jenkins/workspace/build-automation/resources/gridconfig/selenium-server-standalone-3.141.59.jar -role node -hub http://172.31.28.247:4444/grid/register 
